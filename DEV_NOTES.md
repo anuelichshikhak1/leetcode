@@ -32,3 +32,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Added type hints to helper functions
 - Pinned dependency versions for reproducibility
+
+## 2026-04-06
+- Reviewed security headers configuration
+- Ran linter, applied auto-fixes
+- Verified API endpoint response schema
