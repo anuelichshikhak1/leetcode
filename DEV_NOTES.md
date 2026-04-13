@@ -37,3 +37,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Ran linter, applied auto-fixes
 - Verified API endpoint response schema
+
+## 2026-04-13
+- Verified compatibility with latest runtime version
+- Noted known limitation in docs
